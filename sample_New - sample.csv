@@ -1,0 +1,16 @@
+order_id,location,status,product_id,unit_price,Quantity
+1,Atlanta,Order_Placed,exyz,10,5
+1,Atlanta,Order_Placed,xyze,20,10
+1,Atlanta,Order_Placed,abcd,30,9
+2,Gainesville,ReadyForPickup,qwer,100,3
+2,Gainesville,ReadyForPickup,tuix,20,4
+1,Atlanta,Finished,exyz,10,5
+1,Atlanta,Finished,xyze,20,10
+1,Atlanta,Finished,abcd,30,9
+3,orlando,Cancled,oitu,20,9
+4,orlando,Finished,coke,3,5
+4,orlando,Finished,pepsi,2,3
+4,orlando,Finished,diet_coke,3,10
+5,Miami,Finished,diet_coke,2,11
+6,orlando,Finished,diet_coke,1,6
+7,orlando,Finished,diet_coke,3,7

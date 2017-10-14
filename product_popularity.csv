@@ -1,0 +1,11 @@
+,,,Quantity,Quantity,Quantity,order_id,order_id,order_id
+location,,,Atlanta,Miami,orlando,Atlanta,Miami,orlando
+product_id,status,unit_price,,,,,,
+abcd,Finished,30,9.0,0,0,1.0,0,0
+coke,Finished,3,0,0,5.0,0,0,4.0
+diet_coke,Finished,1,0,0,6.0,0,0,6.0
+diet_coke,Finished,2,0,11.0,0,0,5.0,0
+diet_coke,Finished,3,0,0,17.0,0,0,11.0
+exyz,Finished,10,5.0,0,0,1.0,0,0
+pepsi,Finished,2,0,0,3.0,0,0,4.0
+xyze,Finished,20,10.0,0,0,1.0,0,0
